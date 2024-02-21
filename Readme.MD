@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/neeeraj1999/count.svg?"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -47,15 +41,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neeeraj1999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neeeraj1999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeeraj1999&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://profile-counter.glitch.me/neeeraj1999/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
   <img height="200" src="https://dpemoji.com/wp-content/uploads/2023/02/anime-dp-for-whatsapp-26.png"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeeraj1999&radius=12&theme=gotham&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=neeeraj1999&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
