@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/neeeraj1999/neeeraj1999/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/neeeraj1999/neeeraj1999/output/github-contribution-grid-snake-dark.svg" />
 
 ###
 
