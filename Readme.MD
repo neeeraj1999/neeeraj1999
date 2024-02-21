@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://dpemoji.com/wp-content/uploads/2023/02/anime-dp-for-whatsapp-26.png"  />
-</div>
-
-###
-
 <h2 align="center">Hi 👋! My name is Neeraj Patil, and I'm currently located in Syracuse, New York, pursuing my Master's from Syracuse University. My role as a C# developer at FIS Global, a Fortune 500 company, was instrumental in enhancing my understanding of corporate-level technology processes. There, I maintained and refined code for Ambit Asset Finance, handled over 100k data entries, and contributed to software quality and maintainability. This experience, combined with my academic projects like 'Violence Detection using Deep Learning' and the 'Advanced Cafe Booking Application,' has deepened my insight into practical software development applications. My academics curriculum as well my internship experiences have been pivotal in my journey, offering me a comprehensive view of technology's role in solving real-world problems and preparing me for impactful contributions in future software development roles. I am actively seeking full-time roles in software development, aspiring to contribute to projects that drive positive societal change and foster innovation.</h2>
 
 ###
@@ -48,6 +42,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://dpemoji.com/wp-content/uploads/2023/02/anime-dp-for-whatsapp-26.png"  />
 </div>
 
 ###
