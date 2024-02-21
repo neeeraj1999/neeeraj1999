@@ -1,4 +1,20 @@
+<div align="center">
+  <img height="200" src="https://dpemoji.com/wp-content/uploads/2023/02/anime-dp-for-whatsapp-26.png"  />
+</div>
+
+###
+
 <h2 align="center">Hi 👋! My name is Neeraj Patil, and I'm currently located in Syracuse, New York, pursuing my Master's from Syracuse University. My role as a C# developer at FIS Global, a Fortune 500 company, was instrumental in enhancing my understanding of corporate-level technology processes. There, I maintained and refined code for Ambit Asset Finance, handled over 100k data entries, and contributed to software quality and maintainability. This experience, combined with my academic projects like 'Violence Detection using Deep Learning' and the 'Advanced Cafe Booking Application,' has deepened my insight into practical software development applications. My academics curriculum as well my internship experiences have been pivotal in my journey, offering me a comprehensive view of technology's role in solving real-world problems and preparing me for impactful contributions in future software development roles. I am actively seeking full-time roles in software development, aspiring to contribute to projects that drive positive societal change and foster innovation.</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/neeeraj1999/neeeraj1999/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/neeeraj1999/count.svg?"  />
+</div>
 
 ###
 
@@ -32,6 +48,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/neeraj-patil-76278816b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/____neeeraj____/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="patilnv20@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/patilnv20" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
 </div>
 
 ###
