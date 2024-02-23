@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Word by Word Reader</title>
-<style>
-  #reader {
-    text-align: center;
-    font-size: 24px;
-    font-family: 'Arial', sans-serif;
-  }
-</style>
-<script>
-  function readTextWordByWord(text) {
-    const words = text.split(' ');
-    let index = 0;
-    
-    function displayNextWord() {
-      if (index < words.length) {
-        document.getElementById('reader').innerText = words[index++];
-        setTimeout(displayNextWord, 500); // Adjust the speed as necessary
-      }
-    }
-    
-    displayNextWord();
-  }
-  
-  window.onload = function() {
-    const text = "Hi 👋! My name is Neeraj Patil, and I'm currently located in Syracuse, New York, pursuing my Master's from Syracuse University. My role as a C# developer at FIS Global, a Fortune 500 company, was instrumental in enhancing my understanding of corporate-level technology processes. There, I maintained and refined code for Ambit Asset Finance, handled over 100k data entries, and contributed to software quality and maintainability. This experience, combined with my academic projects like 'Violence Detection using Deep Learning' and the 'Advanced Cafe Booking Application,' has deepened my insight into practical software development applications. My academics curriculum as well my internship experiences have been pivotal in my journey, offering me a comprehensive view of technology's role in solving real-world problems and preparing me for impactful contributions in future software development roles. I am actively seeking full-time roles in software development, aspiring to contribute to projects that drive positive societal change and foster innovation.";
-    // Continue with your text
-    readTextWordByWord(text);
-  };
-</script>
-</head>
-<body>
-  <div id="reader"></div>
-</body>
-
-
-<!--
-<h2 align="center">Hi 👋! My name is Neeraj Patil, and I'm currently located in Syracuse, New York, pursuing my Master's from Syracuse University. My role as a C# developer at FIS Global, a Fortune 500 company, was instrumental in enhancing my understanding of corporate-level technology processes. There, I maintained and refined code for Ambit Asset Finance, handled over 100k data entries, and contributed to software quality and maintainability. This experience, combined with my academic projects like 'Violence Detection using Deep Learning' and the 'Advanced Cafe Booking Application,' has deepened my insight into practical software development applications. My academics curriculum as well my internship experiences have been pivotal in my journey, offering me a comprehensive view of technology's role in solving real-world problems and preparing me for impactful contributions in future software development roles. I am actively seeking full-time roles in software development, aspiring to contribute to projects that drive positive societal change and foster innovation.</h2> -->
+<h2 align="center">Hi 👋! My name is Neeraj Patil, and I'm currently located in Syracuse, New York, pursuing my Master's from Syracuse University. My role as a C# developer at FIS Global, a Fortune 500 company, was instrumental in enhancing my understanding of corporate-level technology processes. There, I maintained and refined code for Ambit Asset Finance, handled over 100k data entries, and contributed to software quality and maintainability. This experience, combined with my academic projects like 'Violence Detection using Deep Learning' and the 'Advanced Cafe Booking Application,' has deepened my insight into practical software development applications. My academics curriculum as well my internship experiences have been pivotal in my journey, offering me a comprehensive view of technology's role in solving real-world problems and preparing me for impactful contributions in future software development roles. I am actively seeking full-time roles in software development, aspiring to contribute to projects that drive positive societal change and foster innovation.</h2>
 
 ###
 
@@ -114,5 +73,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
-</html>
+
 ###
