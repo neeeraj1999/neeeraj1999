@@ -12,6 +12,22 @@
 
 <p align="left">As a software engineer, my zeal for creating solutions is fueled by curiosity to explore new technologies, and dedicated to sharpening my skills.<br><br>💻   My tech passion drives me to share insights through presentations, leadership, and tech community discussions.<br>🌍   Travel fuels my creativity, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.<br>🏃‍♂️ Sports is my arena for expressing resilience and teamwork, channeling energy and strategy on the field to bring out the best in myself and others.<br><br>Talking about Personal Stuffs :<br><br>🎓 Currently navigating my final semester of master's studies 🎓 and actively seeking a full-time position to leverage my expertise and embark on a professional growth journey 🚀.<br><br>📚ReactJS, tailwindcss, and whipping up wireframes on Figma are my current learning obsessions 💻.<br><br>📧 Oh, and if you need to reach me, drop a line at patilnv20@gmail.com 📧.<br><br>🤝 Eager for enlightening discussions 🗨️ and the chance to collaborate on innovative projects! </p>
 
+<ul>
+    <li>💻 My tech passion drives me to share insights through presentations, leadership, and tech community discussions.</li>
+    <li>🌍 Travel fuels my creativity, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.</li>
+    <li>🏃‍♂️ Sports is my arena for expressing resilience and teamwork, channeling energy and strategy on the field to bring out the best in myself and others.</li>
+</ul>
+
+<strong>Talking about Personal Stuffs:</strong>
+
+<ul>
+    <li>🎓 Currently navigating my final semester of master's studies 🎓 and actively seeking a full-time position to leverage my expertise and embark on a professional growth journey 🚀.</li>
+    <li>📚 ReactJS, tailwindcss, and whipping up wireframes on Figma are my current learning obsessions 💻.</li>
+    <li>📧 Oh, and if you need to reach me, drop a line at patilnv20@gmail.com 📧.</li>
+    <li>🤝 Eager for enlightening discussions 🗨️ and the chance to collaborate on innovative projects! 🤝</li>
+</ul>
+
+
 <img src="https://raw.githubusercontent.com/neeeraj1999/neeeraj1999/output/snake.svg" alt="Snake animation" />
 
 ###
