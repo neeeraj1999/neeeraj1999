@@ -64,6 +64,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/neeeraj1999/neeeraj1999/output/snake.svg" alt="Snake animation" />
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/neeeraj1999/count.svg?"  />
 </div>
