@@ -26,8 +26,6 @@
 </ul>
     <b>🤝 Eager for enlightening discussions 🗨️ and the chance to collaborate on innovative projects! 🤝</b>
 
-<img src="https://raw.githubusercontent.com/neeeraj1999/neeeraj1999/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
