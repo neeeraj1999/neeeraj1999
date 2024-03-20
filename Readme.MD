@@ -79,6 +79,8 @@
 
 ###
 
+<h2 align="left"> Git Stats! </h2>
+
 <img src="https://raw.githubusercontent.com/neeeraj1999/neeeraj1999/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
