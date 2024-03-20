@@ -102,7 +102,7 @@
 
 ###
 
-<h2 align="Center"><b> Find Me Around the Web 🌐 </b></h2>
+<h2 align="left">Find Me Around the Web 🌐</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/neeraj-patil-76278816b/" target="_blank">
