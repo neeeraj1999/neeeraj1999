@@ -24,7 +24,7 @@
     <li>📚 ReactJS, tailwindcss, and whipping up wireframes on Figma are my current learning obsessions 💻.</li>
     <li>📧 Oh, and if you need to reach me, drop a line at patilnv20@gmail.com 📧.</li>
 </ul>
-    <b>🤝 Eager for enlightening discussions 🗨️ and the chance to collaborate on innovative projects! 🤝</b>
+    <b><h2 align='center'>🤝 Eager for enlightening discussions 🗨️ and the chance to collaborate on innovative projects! 🤝</h2></b>
 
 ###
 
