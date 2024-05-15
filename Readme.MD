@@ -21,7 +21,7 @@
 
 <ul>
     <li>🎓 Currently navigating my final semester of master's studies and actively looking for a full-time position to leverage my expertise and embark on a professional growth journey 🚀.</li>
-    <li>📚 ReactJS, tailwindcss, and whipping up wireframes on Figma are my current learning obsessions 💻.</li>
+    <li>📚 Large Language Models (LLms), transfer models are my current learning obsessions 💻.</li>
     <li>📧 Oh, and if you need to reach me, drop a line at patilnv20@gmail.com 📧.</li>
 </ul>
     <b><h3 align='center'>🤝 Eager for enlightening discussions 🗨️ and the chance to collaborate on innovative projects! 🤝</h3></b>
