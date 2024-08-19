@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi 👋, I’m Neeraj Patil, an enthusiastic 💻 programmer on a journey through the dynamic world 🌐 of technology. Currently pursuing a Master’s in Computer Science at Syracuse University, I take joy in distilling intricate code into simple, meaningful technology. 🚀</p>
+<p align="left">Hi 👋, I’m Neeraj Patil, an enthusiastic 💻 programmer on a journey through the dynamic world 🌐 of technology. Having completed my Master’s in Computer Science at Syracuse University, I take joy in distilling intricate code into simple, meaningful technology. 🚀</p>
 
 ###
 
@@ -20,7 +20,7 @@
 <strong>Talking about Personal Stuffs:</strong>
 
 <ul>
-    <li>🎓 Currently navigating my final semester of master's studies and actively looking for a full-time position to leverage my expertise and embark on a professional growth journey 🚀.</li>
+    <li>🎓 Currently looking for a full-time position to leverage my expertise and embark on a professional growth journey 🚀.</li>
     <li>📚 Large Language Models (LLms), transfer models are my current learning obsessions 💻.</li>
     <li>📧 Oh, and if you need to reach me, drop a line at patilnv20@gmail.com 📧.</li>
 </ul>
